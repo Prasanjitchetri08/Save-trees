@@ -1,0 +1,38 @@
+h1{
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    color: rgb(9, 216, 27);
+}
+h2{
+    text-align: center;
+    font-size: xx-large;
+    color: rgb(5, 99, 71);
+}
+h3{
+    text-align: center;
+    font-size: x-large;
+    color:rgb(8, 126, 180);
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 5px solid rgb(3, 165, 125);
+    border-radius: 10px;
+}
+input{
+    margin-left: 550px;
+    font-size:18pt;
+    height:50px;
+    width:400px;
+}
+button{
+    background-color: rgb(48, 214, 7);
+    color: white;
+    font-size: x-large;
+    font-family: cursive;
+    width: 100px;
+    height: 50px;
+    margin-left: 700px;
+}
